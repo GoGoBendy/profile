@@ -1,0 +1,27 @@
+h1  {
+    color: black;
+    border: solid 5px grey;
+    display: inline-block;
+    text-align: center;
+    padding-left: 12.5px;
+    padding-right: 12.5px;
+    border-radius: 15px;
+    font-weight: bold;
+    background-color: grey;
+}
+body    {
+    background-color: darkgrey;
+    margin: auto;
+}
+.text   {
+    background-color: grey;
+    border: solid 1px grey;
+    display: block;
+    border-radius: 5px;
+    text-align: center;
+}
+.heading    {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
